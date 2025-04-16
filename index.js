@@ -6,10 +6,10 @@
 // Output Format 
 // Return the required answer. 
 
-let arr = [1, 2, 3, 4, 5];
+let arr = [1, 2, 3, 4, 5]
 let product = 1;
 for (let num of arr) {
-    product *= num;
+    product *= num
 }
 console.log(product);
 
